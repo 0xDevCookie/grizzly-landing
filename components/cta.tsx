@@ -4,9 +4,7 @@ export default function CTA() {
         <div className="px-6 py-24 sm:px-6 sm:py-32 lg:px-8">
           <div className="mx-auto max-w-2xl text-center">
             <h2 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-gray-100 :text-4xl">
-              Boost your productivity.
-              <br />
-              Start using our app today.
+              Public sale coming soon
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600 dark:text-gray-400">
               Incididunt sint fugiat pariatur cupidatat consectetur sit cillum anim id veniam aliqua proident excepteur
